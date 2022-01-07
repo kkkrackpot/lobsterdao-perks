@@ -6,29 +6,28 @@ various projects and individuals.
 
 The list is always WIP, the maintainers 
 encourage the readers, and especially the mentioned 
-projects, to provide their feedback in the _Issues_. 
+projects, to provide their feedback in the [_Issues_](https://github.com/kkkrackpot/lobsterdao-perks/issues). 
 
 - [About LobsterDAO](https://lobsterdao.io)
-- [LobsterDAO NFTs at Opensea]()
-- [List of DAO members (snapshots)](https://holders.lobsterdao.io/)
+- [List of the DAO members](https://holders.lobsterdao.io/)
 
-<details><summary> Notes </summary>
-<p>LobsterDAO members are ETH mainnet addresses 
+<details><summary> Misc notes to the list</summary>
+<p><b>LobsterDAO members</b> are ETH addresses 
 which hold <b>10b57e6</b> NFT(s), either minted, 
 or bought on the secondary market (see https://holders.lobsterdao.io/).</p>
 <p>A <b>Lobster holder/address</b> is an ETH address which holds <b>10b57e6</b> NFT(s).</p>
 <p>The list doesn't specify <i>why</i> a perk was 
-given. However, the corresponding projects are 
-encouraged to provide such info.</p>
-<p>The DAO (its treasury's multisig contract) 
+given. However, if a project submits such info here, 
+it will be included.</p>
+<p>The DAO itself (its treasury's multisig contract) 
 is technically an NFT holder, so it too can be 
-eligible for perks, technically.</p>
+eligible for perks.</p>
 
 <p></p>
 </details>
 
-## The list
-The latests first, roughly. Click an item to see details.
+## The List
+The latest first, roughly.
 
 - [Coinlist](#coinlist) (Jan '22)
 - [Gearbox](#gearbox) (Dec '21)
@@ -44,3 +43,11 @@ Coinlist account with a Lobster address attached.
 
 
 ### Gearbox
+- https://gearbox.fi
+- November-December 2021
+- Early access to Gearbox test app, an airdrop of 20K-100K $GEAR 
+per address, depending on testing activity.
+- Whitelisting for participation in "Credit account 
+mining" event (deployment of Gearbox smart contracts 
+on ETH mainnet), a reward of 100K $GEAR per address 
+that successfully deployed the said smart contract.
