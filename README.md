@@ -15,8 +15,9 @@ projects, to provide their feedback in the _Issues_.
 <details><summary> Notes </summary>
 <p>LobsterDAO members are ETH mainnet addresses 
 which hold <b>10b57e6</b> NFT(s), either minted, 
-or bought.</p>
-<p>foo</p>
+or bought on the secondary market.</p>
+<p>The list doesn't specify _why_ a perk was 
+given.</p>
 <p>bar</p>
 <p>foobar</p>
 <p></p>
@@ -24,8 +25,18 @@ or bought.</p>
 
 ## The list
 The latests first, roughly. Click an item to see details.
-- [Gearbox](#gearbox)
-- one
-- two
+
+- [Coinlist](#coinlist) (Jan '22)
+- [Gearbox](#gearbox) (Dec '21)
+- Icytools
+- Ambire
+- DFX
+
+### Coinlist
+- https://coinlist.co
+- January 2021
+- 2000 Karma points for 2 months per KYC-ed 
+Coinlist account with NFT address attached.
+
 
 ### Gearbox
