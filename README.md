@@ -10,18 +10,20 @@ projects, to provide their feedback in the _Issues_.
 
 - [About LobsterDAO](https://lobsterdao.io)
 - [LobsterDAO NFTs at Opensea]()
-- [DAO members (snapshots)]()
+- [List of DAO members (snapshots)](https://holders.lobsterdao.io/)
 
 <details><summary> Notes </summary>
 <p>LobsterDAO members are ETH mainnet addresses 
 which hold <b>10b57e6</b> NFT(s), either minted, 
-or bought on the secondary market.</p>
-<p>The list doesn't specify _why_ a perk was 
-given. This info is simply out of scope here.</p>
+or bought on the secondary market (see https://holders.lobsterdao.io/).</p>
+<p>A <b>Lobster holder/address</b> is an ETH address which holds <b>10b57e6</b> NFT(s).</p>
+<p>The list doesn't specify <i>why</i> a perk was 
+given. However, the corresponding projects are 
+encouraged to provide such info.</p>
 <p>The DAO (its treasury's multisig contract) 
 is technically an NFT holder, so it too can be 
 eligible for perks, technically.</p>
-<p>foobar</p>
+
 <p></p>
 </details>
 
