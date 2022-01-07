@@ -17,8 +17,10 @@ projects, to provide their feedback in the _Issues_.
 which hold <b>10b57e6</b> NFT(s), either minted, 
 or bought on the secondary market.</p>
 <p>The list doesn't specify _why_ a perk was 
-given.</p>
-<p>bar</p>
+given. This info is simply out of scope here.</p>
+<p>The DAO (its treasury's multisig contract) 
+is technically an NFT holder, so it too can be 
+eligible for perks, technically.</p>
 <p>foobar</p>
 <p></p>
 </details>
@@ -36,7 +38,7 @@ The latests first, roughly. Click an item to see details.
 - https://coinlist.co
 - January 2021
 - 2000 Karma points for 2 months per KYC-ed 
-Coinlist account with NFT address attached.
+Coinlist account with a Lobster address attached.
 
 
 ### Gearbox
