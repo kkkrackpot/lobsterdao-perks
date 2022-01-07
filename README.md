@@ -30,9 +30,9 @@ eligible for perks.</p>
 The latest first, roughly.
 
 - [Coinlist](#coinlist) (Jan '22)
-- [Gearbox](#gearbox) (Dec '21)
+- [Gearbox Finance](#gearbox) (Dec '21)
+- [Ambire Wallet](#ambire) (Dec '21)
 - Icytools
-- Ambire
 - DFX
 
 ### Coinlist
@@ -51,3 +51,14 @@ per address, depending on testing activity.
 mining" event (deployment of Gearbox smart contracts 
 on ETH mainnet), a reward of 100K $GEAR per address 
 that successfully deployed the said smart contract.
+
+### Ambire
+- https://ambire.com
+- December 2021
+- A month of 1.5x boost on $wallet mining 
+(earning $wallet token for holding assets 
+in Ambire wallet) for Ambire accounts with 
+Lobster address attached as a "signer".
+- A "lifetime" 1.5x boost on $wallet mining 
+for Ambire accounts that hold a Lobster NFT 
+in Ambire wallet.
