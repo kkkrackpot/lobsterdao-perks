@@ -12,10 +12,10 @@ projects, to provide their feedback in the [_Issues_](https://github.com/kkkrack
 - [List of the DAO members](https://holders.lobsterdao.io/)
 
 <details><summary> Misc notes to the list</summary>
-<p><b>LobsterDAO members</b> are ETH addresses 
+<p>&nbsp;</p>
+<p><b>LobsterDAO members</b> are <b>Lobster holders</b>, ETH addresses 
 which hold <b>10b57e6</b> NFT(s), either minted, 
-or bought on the secondary market (see https://holders.lobsterdao.io/).</p>
-<p>A <b>Lobster holder/address</b> is an ETH address which holds <b>10b57e6</b> NFT(s).</p>
+or bought at secondary markets (see https://holders.lobsterdao.io/).</p>
 <p>The list doesn't specify <i>why</i> a perk was 
 given. However, if a project submits such info here, 
 it will be included.</p>
