@@ -30,10 +30,10 @@ eligible for perks.</p>
 The latest first, roughly.
 
 - [Coinlist](#coinlist) (Jan '22)
-- DFX
+- [DFX Finance](#dfx-finance) (Jan '22)
 - [Gearbox Finance](#gearbox) (Dec '21)
 - [Ambire Wallet](#ambire) (Dec '21)
-- Defiant
+- [The Defiant](#defiant) (Nov '21)
 - [Icy Tools](#icy-tools) (Nov '21)
 
 ### Coinlist
@@ -42,6 +42,10 @@ The latest first, roughly.
 - 2000 Karma points for 2 months per KYC-ed 
 Coinlist account with a Lobster address attached.
 
+### DFX Finance
+- https://dfx.finance
+- January 2022
+- 167 DFX KPI Options per Lobster address.
 
 ### Gearbox
 - https://gearbox.fi
@@ -63,6 +67,11 @@ Lobster address attached as a "signer".
 - A "lifetime" 1.5x boost on $wallet mining 
 for Ambire accounts that hold a Lobster NFT 
 in Ambire wallet.
+
+### Defiant
+- https://thedefiant.io/
+- November 2021
+- Access to Alpha-Terminal test app for Lobster holders.
 
 ### Icy Tools
 - https://icy.tools
