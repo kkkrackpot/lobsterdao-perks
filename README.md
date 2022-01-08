@@ -30,10 +30,11 @@ eligible for perks.</p>
 The latest first, roughly.
 
 - [Coinlist](#coinlist) (Jan '22)
+- DFX
 - [Gearbox Finance](#gearbox) (Dec '21)
 - [Ambire Wallet](#ambire) (Dec '21)
-- Icytools
-- DFX
+- Defiant
+- [Icy Tools](#icy-tools) (Nov '21)
 
 ### Coinlist
 - https://coinlist.co
@@ -45,7 +46,7 @@ Coinlist account with a Lobster address attached.
 ### Gearbox
 - https://gearbox.fi
 - November-December 2021
-- Early access to Gearbox test app, an airdrop of 20K-100K $GEAR 
+- Early access to Gearbox test app for holders of 2+ NFTs, an airdrop of 20K-100K $GEAR 
 per address, depending on testing activity.
 - Whitelisting for participation in "Credit account 
 mining" event (deployment of Gearbox smart contracts 
@@ -62,3 +63,10 @@ Lobster address attached as a "signer".
 - A "lifetime" 1.5x boost on $wallet mining 
 for Ambire accounts that hold a Lobster NFT 
 in Ambire wallet.
+
+### Icy Tools
+- https://icy.tools
+- November 2021
+- A month of free premium plan for Lobster holders.
+
+
