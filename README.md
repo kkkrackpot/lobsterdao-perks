@@ -33,6 +33,7 @@ The latest first, roughly.
 - [DFX Finance](#dfx-finance) (Jan '22)
 - [Gearbox Finance](#gearbox) (Dec '21)
 - [Ambire Wallet](#ambire) (Dec '21)
+- [Mean Finance](#mean-finance) (Dec '21)
 - [The Defiant](#defiant) (Nov '21)
 - [Icy Tools](#icy-tools) (Nov '21)
 
@@ -67,6 +68,11 @@ Lobster address attached as a "signer".
 - A "lifetime" 1.5x boost on $wallet mining 
 for Ambire accounts that hold a Lobster NFT 
 in Ambire wallet.
+
+### Mean Finance
+- https://mean.finance/
+- December 2021
+- Access to the beta test app for Lobster holders.
 
 ### Defiant
 - https://thedefiant.io/
