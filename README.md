@@ -16,6 +16,13 @@ projects, to provide their feedback in the [_Issues_](https://github.com/kkkrack
 <p><b>LobsterDAO members</b> are <b>Lobster holders</b>, ETH addresses 
 which hold <b>10b57e6</b> NFT(s), either minted, 
 or bought at secondary markets (see https://holders.lobsterdao.io/).</p>
+<p><b>Entry Closed</b>: the entry is not possible 
+anymore (e.g. snapshot already taken). The latecomers 
+are NGMI even if they get a Lobster NFT now.</p>
+<p><b>Entry Open</b>: the entry is still 
+possible. However, before aping double check it 
+in Lobster Telegram/Discord chat or contact the 
+corresponding project directly!</p>
 <p>The list doesn't specify <i>why</i> a perk was 
 given. However, if a project submits such info here, 
 it will be included.</p>
@@ -40,17 +47,20 @@ The latest first, roughly.
 ### Coinlist
 - https://coinlist.co
 - January 2021
+- Entry closed.
 - 2000 Karma points for 2 months per KYC-ed 
 Coinlist account with a Lobster address attached.
 
 ### DFX Finance
 - https://dfx.finance
 - January 2022
+- Entry closed.
 - 167 DFX KPI Options per Lobster address.
 
 ### Gearbox
 - https://gearbox.fi
 - November-December 2021
+- Entry closed.
 - Early access to Gearbox test app for holders of 2+ NFTs, an airdrop of 20K-100K $GEAR 
 per address, depending on testing activity.
 - Whitelisting for participation in "Credit account 
@@ -61,6 +71,7 @@ that successfully deployed the said smart contract.
 ### Ambire
 - https://ambire.com
 - December 2021
+- Entry open.
 - A month of 1.5x boost on $wallet mining 
 (earning $wallet token for holding assets 
 in Ambire wallet) for Ambire accounts with 
@@ -72,16 +83,19 @@ in Ambire wallet.
 ### Mean Finance
 - https://mean.finance/
 - December 2021
+- Entry open.
 - Access to the beta test app for Lobster holders.
 
 ### Defiant
 - https://thedefiant.io/
 - November 2021
+- Entry open.
 - Access to Alpha-Terminal test app for Lobster holders.
 
 ### Icy Tools
 - https://icy.tools
 - November 2021
+- Entry closed.
 - A month of free premium plan for Lobster holders.
 
 
