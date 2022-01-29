@@ -36,6 +36,7 @@ eligible for perks.</p>
 ## The List
 The latest first, roughly.
 
+- [Atlantis World](#atlantis-world) (Jan '22)
 - [Coinlist](#coinlist) (Jan '22)
 - [DFX Finance](#dfx-finance) (Jan '22)
 - [Gearbox Finance](#gearbox) (Dec '21)
@@ -45,9 +46,17 @@ The latest first, roughly.
 - [The Defiant](#defiant) (Nov '21)
 - [Icy Tools](#icy-tools) (Nov '21)
 
+### Atlantis World
+- https://atlantis.world
+- January 2022
+- Entry closed.
+- Whitelisting the Lobster holders to mint
+NFTs related to certain in-game priority 
+features.
+
 ### Coinlist
 - https://coinlist.co
-- January 2021
+- January 2022
 - Entry closed.
 - 2000 Karma points for 2 months per KYC-ed 
 Coinlist account with a Lobster address attached.
