@@ -36,6 +36,7 @@ eligible for perks.</p>
 ## The List
 The latest first, roughly.
 
+- [Radial Finance](#radial-finance) (Feb '22)
 - [Atlantis World](#atlantis-world) (Jan '22)
 - [Coinlist](#coinlist) (Jan '22)
 - [DFX Finance](#dfx-finance) (Jan '22)
@@ -45,6 +46,13 @@ The latest first, roughly.
 - [Mean Finance](#mean-finance) (Dec '21)
 - [The Defiant](#defiant) (Nov '21)
 - [Icy Tools](#icy-tools) (Nov '21)
+
+### Radial Finance
+- https://radialfinance.com
+- February 2022
+- Entry closed.
+- An airdrop of ~631 RDL tokens (vested for 
+1 year) per Lobster address.
 
 ### Atlantis World
 - https://atlantis.world
