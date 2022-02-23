@@ -104,6 +104,9 @@ in Ambire wallet.
 - Entry closed.
 - Access to the beta test app, an airdrop of 
 360 testnet $ACRE tokens per Lobster address.
+In February 2022 mainnet $ACRE was distributed 
+proportionally to NFT count and staking 
+activities.
 
 ### Mean Finance
 - https://mean.finance/
