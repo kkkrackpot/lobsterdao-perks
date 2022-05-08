@@ -36,6 +36,7 @@ eligible for perks.</p>
 ## The List
 The latest first, roughly.
 
+- [ETHDubai Conference](#ethdubai-conf) (March '22)
 - [Radial Finance](#radial-finance) (Feb '22)
 - [Atlantis World](#atlantis-world) (Jan '22)
 - [Coinlist](#coinlist) (Jan '22)
@@ -46,6 +47,12 @@ The latest first, roughly.
 - [Mean Finance](#mean-finance) (Dec '21)
 - [The Defiant](#defiant) (Nov '21)
 - [Icy Tools](#icy-tools) (Nov '21)
+
+### ETHDubai Conf
+- https://www.ethdubaiconf.org/
+- March 2022
+- Entry closed.
+- 20% off on tickets for Lobster holders.
 
 ### Radial Finance
 - https://radialfinance.com
