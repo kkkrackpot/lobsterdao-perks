@@ -34,9 +34,9 @@ eligible for perks.</p>
 </details>
 
 ## The List
-The latest first, roughly.
-
+Latest first, roughly.
 - [ETHDubai Conference](#ethdubai-conf) (March '22)
+- [DexGuru](#dexguru) (Mar '22)
 - [Radial Finance](#radial-finance) (Feb '22)
 - [Atlantis World](#atlantis-world) (Jan '22)
 - [Coinlist](#coinlist) (Jan '22)
@@ -48,11 +48,19 @@ The latest first, roughly.
 - [The Defiant](#defiant) (Nov '21)
 - [Icy Tools](#icy-tools) (Nov '21)
 
+
 ### ETHDubai Conf
 - https://www.ethdubaiconf.org/
 - March 2022
 - Entry closed.
 - 20% off on tickets for Lobster holders.
+- 
+### DexGuru
+- https://dex.guru/
+- March 2022
+- Entry closed.
+- Whitelisting for participation in "[DAO Bootstrap Phase](https://blog.dex.guru/bootstrap)" event.
+- An NFT per a Lobster address.
 
 ### Radial Finance
 - https://radialfinance.com
@@ -132,5 +140,3 @@ activities.
 - November 2021
 - Entry closed.
 - A month of free premium plan for Lobster holders.
-
-
