@@ -35,7 +35,7 @@ eligible for perks.</p>
 
 ## The List
 Latest first, roughly.
-- [ETHDubai Conference](#ethdubai-conf) (March '22)
+- [ETHDubai Conference](#ethdubai-conf) (Mar '22)
 - [DexGuru](#dexguru) (Mar '22)
 - [Radial Finance](#radial-finance) (Feb '22)
 - [Atlantis World](#atlantis-world) (Jan '22)
