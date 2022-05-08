@@ -54,13 +54,12 @@ Latest first, roughly.
 - March 2022
 - Entry closed.
 - 20% off on tickets for Lobster holders.
-- 
+
 ### DexGuru
 - https://dex.guru/
 - March 2022
 - Entry closed.
-- Whitelisting for participation in "[DAO Bootstrap Phase](https://blog.dex.guru/bootstrap)" event.
-- An NFT per a Lobster address.
+- Whitelisting for participation in "[DAO Bootstrap Phase](https://blog.dex.guru/bootstrap)" event. An NFT per a Lobster address.
 
 ### Radial Finance
 - https://radialfinance.com
